@@ -7,6 +7,12 @@ This repository contains the code for our project on 3d human motion prediction.
 
 ![LuKAN Architecture](Figures/Figure1.jpg)
 
+<h3>Architecture</h3>
+<p align="center">
+  <img src="Figures/Figure1.jpg" alt="LuKAN Architecture" width="600"/>
+</p>
+
+
 ### Predictive Performance of LuKAN on Human3.6M Dataset
 
 | Method            | 80   | 160  | 320  | 400  | 560  | 720  | 880  | 1000 |
