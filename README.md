@@ -3,6 +3,10 @@
 
 This repository contains the code for our project on 3d human motion prediction.
 
+### Architecture
+
+![LuKAN Architecture](Figures/Figure1.pdf)
+
 ### Requirements
 ------
 - matplotlib==3.9.1
