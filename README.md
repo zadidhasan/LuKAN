@@ -67,7 +67,7 @@ All of our datasets were taken from their official websites.
 ##### Training
 ```bash
 cd h36m
-CUBLAS_WORKSPACE_CONFIG=:4096:8 python train.py
+CUBLAS_WORKSPACE_CONFIG=:4096:8 python train.py --exp-name lukan
 ```
 ##### Evaluation
 ```bash
@@ -78,7 +78,7 @@ python test.py --model-pth your/model/path
 ##### Training
 ```bash
 cd amass_and_3dpw
-CUBLAS_WORKSPACE_CONFIG=:4096:8 python train.py
+CUBLAS_WORKSPACE_CONFIG=:4096:8 python train.py --exp-name lukan
 ```
 ##### Evaluation
 ```bash
