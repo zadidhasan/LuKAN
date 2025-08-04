@@ -1,5 +1,5 @@
 # LuKAN
-**A Kolmogorov-Arnold Network for 3D Human Motion Prediction**
+**A Kolmogorov-Arnold Network Framework for 3D Human Motion Prediction**
 
 This repository contains the code for our project on 3d human motion prediction.
 
@@ -58,3 +58,16 @@ python test.py --model-pth your/model/path
 #Test on 3DPW
 python test_3dpw.py --model-pth your/model/path 
 ```
+
+## 📖 Citation
+
+If you use this work, please cite:
+
+```bibtex
+@inproceedings{zadid2025lukan,
+  title={LuKAN: A Kolmogorov-Arnold Network Framework for 3D Human Motion Prediction},
+  author={Hasan, Md Zahidul and Ben Hamza, Abdessamad and Bouguila, Nizar},
+  booktitle={Proceedings of the British Machine Vision Conference (BMVC)},
+  year={2025}
+}
+
