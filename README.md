@@ -92,7 +92,7 @@ python test_3dpw.py --model-pth your/model/path
 
 We gratefully acknowledge the following repositories and authors whose work inspired or supported our research:
 
-- 🔗 [ZimingLiu/Efficient Kolmogorov-Arnold-Network](https://github.com/KindXiaoming/pykan)  
+- 🔗 [ZimingLiu/Kolmogorov-Arnold-Network](https://github.com/KindXiaoming/pykan)  
   Provided the foundational implementation of Kolmogorov-Arnold Networks (KANs).
 
 - 🌊 [fbcotter/pytorch_wavelets](https://github.com/fbcotter/pytorch_wavelets)  
