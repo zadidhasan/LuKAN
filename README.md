@@ -94,7 +94,7 @@ If you use this work, please cite:
   author={Hasan, Md Zahidul and Ben Hamza, Abdessamad and Bouguila, Nizar},
   booktitle={Proceedings of the British Machine Vision Conference (BMVC)},
   year={2025}
-}
+}```
 
 ## 🙏 Acknowledgements
 
