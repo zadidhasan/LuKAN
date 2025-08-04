@@ -96,3 +96,20 @@ If you use this work, please cite:
   year={2025}
 }
 
+## 🙏 Acknowledgements
+
+We gratefully acknowledge the following repositories and authors whose work inspired or supported our research:
+
+- 🔗 [ZimingLiu/Efficient Kolmogorov-Arnold-Network](https://github.com/KindXiaoming/pykan)  
+  Provided the foundational implementation of Kolmogorov-Arnold Networks (KANs).
+
+- 🌊 [fbcotter/pytorch_wavelets](https://github.com/fbcotter/pytorch_wavelets)  
+  Enabled Discrete Wavelet Transform operations in PyTorch for temporal encoding.
+
+- 🧠 [WenGuo/siMLPe](https://github.com/dulucas/siMLPe)  
+  Served as a strong baseline for comparison in 3D human motion prediction.
+
+---
+
+We appreciate the open-source contributions that helped make this work possible.
+
