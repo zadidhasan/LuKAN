@@ -23,6 +23,10 @@ This repository contains the code for our project on 3d human motion prediction.
 | SiMLPe            |  9.6 |_21.7_|_46.3_|_57.3_|_75.7_|_90.1_|101.8|_109.4_|
 | **LuKAN (ours)**  |**9.4**|**21.5**|**46.2**|**57.2**|**75.7**|**89.9**|**101.6**|**109.3**|
 
+### Qualitative Visualization
+
+![siMLPe vs LuKAN](Figures/Figure2.jpg)
+
 
 ### Requirements
 ------
