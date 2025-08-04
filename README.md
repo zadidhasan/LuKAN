@@ -84,18 +84,6 @@ python test.py --model-pth your/model/path
 python test_3dpw.py --model-pth your/model/path 
 ```
 
-## 📖 Citation
-
-If you use this work, please cite:
-
-```bibtex
-@inproceedings{zadid2025lukan,
-  title={LuKAN: A Kolmogorov-Arnold Network Framework for 3D Human Motion Prediction},
-  author={Hasan, Md Zahidul and Ben Hamza, Abdessamad and Bouguila, Nizar},
-  booktitle={Proceedings of the British Machine Vision Conference (BMVC)},
-  year={2025}
-}```
-
 ## 🙏 Acknowledgements
 
 We gratefully acknowledge the following repositories and authors whose work inspired or supported our research:
@@ -112,4 +100,18 @@ We gratefully acknowledge the following repositories and authors whose work insp
 ---
 
 We appreciate the open-source contributions that helped make this work possible.
+
+
+
+## 📖 Citation
+
+If you use this work, please cite:
+
+```bibtex
+@inproceedings{zadid2025lukan,
+  title={LuKAN: A Kolmogorov-Arnold Network Framework for 3D Human Motion Prediction},
+  author={Hasan, Md Zahidul and Ben Hamza, Abdessamad and Bouguila, Nizar},
+  booktitle={Proceedings of the British Machine Vision Conference (BMVC)},
+  year={2025}
+}
 
